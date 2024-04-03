@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # floatlessvalve.io
 Floatless Automatic Water Valve
 
