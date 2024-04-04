@@ -51,7 +51,7 @@ After some minor adjustments, I got the valve to respond at an appropriate depth
 
 
 | first Build                                     | CAD model                                       | 3D Printed Internals                            |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+|:----------------------------------------------- |:----------------------------------------------- |:----------------------------------------------- |
 | ![prototype1](https://i.imgur.com/RZ8tqI2.jpeg) | ![prototype2](https://i.imgur.com/vtH1Xc0.jpeg) | ![prototype3](https://i.imgur.com/1oadRX1.jpeg) |
 
 In November of 2018, I made an early test of the initial design concept and recorded it on video. 
@@ -80,7 +80,7 @@ The patent application process from our efforts are documented in the World Inte
 The two prior art documents consist of a [water regulator for cattle tanks](https://patentimages.storage.googleapis.com/c8/1e/be/c0bdc5a61bb70d/US2471328.pdf) from 1949 and an [automatic water supply device](https://patents.google.com/patent/US20020162513A1) from 2001.
 
 | 1949 Regulator                                        | 2001 Valve                                                                                                               |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+|:----------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------ |
 | ![regulator sketch](https://i.imgur.com/SZhcofA.jpeg) | ![valve sketch](https://patentimages.storage.googleapis.com/73/d6/ec/40aa0cdb923f1a/US20020162513A1-20021107-D00000.png) |
 
 The interesting detail is this: the 1947 device fails to eliminate the remotely-mounted accessories for the valve, and the 2001 device fails to cancel out barometric deviations.  Per the patent office language, the functions of these two designs could be combined to achieve the result we have claimed.  However, _neither_ device has directly canceled the air pressure with itself.  The best result you could achieve with one expert and these two valves designs in-hand, is a two-chamber valve that still has a bulky attachment at the surface level of the water.
