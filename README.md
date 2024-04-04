@@ -1,6 +1,6 @@
 ## Floatless Water Valve
 
-## Abstract
+## Intro
 Water is the world's most precious resource, and farmers know this well. As of today, livestock around the world receive drinking water from troughs an those troughs are filled with water through a valve that automatically controls water flow.  The most popular valves available today operate with a float that lifts a lever to start and stop the flow. These floats can be disrupted by freezing water or disturbance by livestock, leading to empty tanks or overflowing tanks.
 
 A new design initiated by a team of three in Texas has been developed which eliminates the float mechanism and allows the valve to be fully submerged.  The design can save millions of gallons of water by eliminating the biggest failure mode from the popular designs: the float.  This article is authored by David Malawey to describe the features of the invention, some technical information, and the story of development.
