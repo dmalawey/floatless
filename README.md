@@ -27,6 +27,7 @@ The best current solution for maintaining water troughs is to use a float valve,
 | The standpipe, on top-mounted float valves, cracks          | Strong enclosures are built to prevent livestock from striking the standpipe, and insulated materials are added to prevent freezing. |
 | Floats degrade under the sun by UV light                    | farmers tolerate this issue and just buy new components or new valves                                                                |
 | The condition of the overall trough is unreliable           | Farmers must place troughs in visible distance in a pasture, or they make routine passes by their troughs on an ATV, regularly.      |
+
 Each of the above problems and solutions are costly, and the efforts to deliver these solutions require their own ongoing maintenance.  If the maintenance falls short at any time, the result is wasted water. 
 
 You can imagine, farmers place troughs strategically knowing the reliability of any watering station is limited, and this planning even impacts the investment to enter small-scale farming, and it is ultimately a barrier for the beef and dairy consumers to access beef from healthier, free-ranging livestock.
