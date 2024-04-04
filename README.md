@@ -21,7 +21,7 @@ Concepts for floatless automatic valves have elements that date back to the 1940
 The best current solution for maintaining water troughs is to use a float valve, which generates a list of issues in practice.  In the livestock industry, the farmers solve these problems in a number of ways.
 
 | Issue                                                       | Current Solution                                                                                                                     |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| :---------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------ |
 | Cattle disturb and break the float like a toy               | farmers build wooden boxes around the float valve so the animals don't disrupt it                                                    |
 | The surface of the water freezes and makes float inoperable | farmers purchase heaters for troughs, to maintain the water above freezing in cold weather                                           |
 | The standpipe, on top-mounted float valves, cracks          | Strong enclosures are built to prevent livestock from striking the standpipe, and insulated materials are added to prevent freezing. |
