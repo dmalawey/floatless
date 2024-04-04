@@ -1,7 +1,3 @@
----
-id: main
----
-
 ## Floatless Water Valve
 
 ## Abstract
