@@ -7,6 +7,15 @@ A new design initiated by a team of three in Texas has been developed which elim
 
 ![trough image](https://i.imgur.com/OVEhXtq.jpeg)
 
+### Coming Up
+
+We have plans to bring demonstration units to the beef cattle short course in College Station, TX.  The event is held annually and is the largest beef cattle education event globally.
+
+**2024 course details:**
+* August 5-7, 2024
+* [Website](https://beefcattleshortcourse.com/) for beef cattle short course
+* Location: 275 Joe Routt Blvd, College Station, TX 77843
+
 ## Who
 Scott Jacques, equine veterinarian initiated the design from decades of experience with cattle and other livestock operations, testing of previous options, and relationships with hundreds of farmers.   He posed the problem statement and provided use-case requirements throughout the development.  David Malawey and Osnir Watanabe, both with mechanical engineering backgrounds joined the project in 2018.  David created an initial concept and prototype in 2018 and Osnir engaged his team in Brazil to generate a manufacturable prototype. Osnir's business manufactures & distributes products in the livestock reproduction industry for over two decades, employs Adriano Barrissa who led the adaptation of the concept prototype to a manufacturable assembly and a long span of testing to achieve the same performance as the initial concept.
 
