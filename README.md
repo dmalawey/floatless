@@ -101,7 +101,9 @@ As of April 2024, I am including these discussions about IP to express explicitl
 
 The ongoing development from this float-less valve concept is of particular interest because of it's broad applications.  In truth, float valves appear in a broad host of applications, where the leading brands have innovated dozens of iterations over decades to compete with each other, and where eliminating a float would change the paradigm altogether.  For toilets and industrial tanks and so forth, the float itself is never desired, but a means to a desired result.
 
-![toilet diagram](https://i.imgur.com/6o04xhF.jpeg)
+| Toilet Valve with Float | Pool Refill Valve with Float |
+|:----------------------- |:----------------------------- |
+| ![toilet diagram](https://i.imgur.com/6o04xhF.jpeg) | ![pool refill valve](https://i.imgur.com/2c3Pmbp.jpeg) |
 
 Imagine if a new design could make every toilet tank in the world more reliable - how much water would we save?  How many instances of throwaway-and-buy-again could be eliminated?
 
