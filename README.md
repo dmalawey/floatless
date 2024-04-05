@@ -12,6 +12,13 @@ Scott Jacques, equine veterinarian initiated the design from decades of experien
 
 ![valve team 2018](https://i.imgur.com/HTzxAKk.jpeg)
 
+### Valve Company
+A dedicated corporation has not been established for the valve.  There are merits to forming a business for certain.  If a major investment is proposed, then a dedicated company is appropriate for the sake of accounting and transparency. As of 2024, these options are possible:
+* Distribution through Osnir's Company, WTA
+* Distribution through Scott's company, Applied Biotechnologies TX
+* License the design to another company with a familiar consumer brand
+* Form a new company for branding and distribution - or combine this with above options.
+
 ## Design Story
 
 Concepts for floatless automatic valves have elements that date back to the 1940's in patent history but an effective product that employs this feature has been lacking in the market until now.
@@ -108,6 +115,7 @@ The ongoing development from this float-less valve concept is of particular inte
 Imagine if a new design could make every toilet tank in the world more reliable - how much water would we save?  How many instances of throwaway-and-buy-again could be eliminated?
 
 At this time, we still have great potential to secure an improved patent, and if we capture this through fundraising or through collaboration - the opportunity can easily pay for itself by widening the markets to which we adapt this design, and increasing the value for society by improving systems beyond livestock.
+
 ### Simplicity Grows Rarer
 
 Why is this invention important, among millions of inventions every year?
@@ -123,7 +131,14 @@ For business inquiries, it is best to email and copy all parties for transparenc
 * dmalawey@gmail.com - for David Malawey
 * diretoria@wtavet.com.br - for Osnir's WTA and affiliates
 
+**Businesses websites**
+Business websites affiliated with Scott, Osnir, and David respectively.
+* WTA ► [wtavet.com.br](https://www.wtavet.com.br/)
+* Applied Biosciences Texas ► [appliedbiosciencestx.com](https://www.appliedbiosciencestx.com/about)
+* SCUTTLE Robotics ► [scuttlerobot.org](https://www.scuttlerobot.org)
+
 The workplaces for David and Scott are located in College, Station, TX - home of Texas A&M University and the Texas Aggies.  The workplace for Osnir, Adriano, and WTA is in Cravinhos, in the state of Sao Paulo, Brazil.
+
 ### Reach out for:
 
 If you're interested in the following activities, please reach out.
