@@ -81,7 +81,7 @@ The two prior art documents consist of a [water regulator for cattle tanks](http
 
 | 1949 Regulator                                        | 2001 Valve                                                                                                               |
 |:----------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------ |
-| ![regulator sketch](https://i.imgur.com/SZhcofA.jpeg) | ![valve sketch](https://patentimages.storage.googleapis.com/73/d6/ec/40aa0cdb923f1a/US20020162513A1-20021107-D00000.png) |
+| ![regulator sketch](/assets/img/patent_1949.jpg) | ![valve sketch](/assets/img/patent_2001.jpg) |
 
 The interesting detail is this: the 1947 device fails to eliminate the remotely-mounted accessories for the valve, and the 2001 device fails to cancel out barometric deviations.  Per the patent office language, the functions of these two designs could be combined to achieve the result we have claimed.  However, _neither_ device has directly canceled the air pressure with itself.  The best result you could achieve with one expert and these two valves designs in-hand, is a two-chamber valve that still has a bulky attachment at the surface level of the water.
 
