@@ -91,29 +91,9 @@ Efforts and funding for the patent were invested by Osnir's team with intention 
 
 ## IP Technical Path
 
-By 2020, our team filed an official patent application marked with a date, and by 2021, the resulting responses and application was stored into global systems of patents.  By early 2024, I could retrace the filings which originated in the Brazilian system, since they were uploaded into sites I can search personally.  These global systems do not mean that the whole world will honor and protect the invention from copies, but it does mean that each nation which honors the globally published documents will do so with their respective legal system.
+Patent pending.
 
-The patent application process from our efforts are documented in the World Intellectual Property Organization (WIPO).  The WIPO hosts a [summary page of our application](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021159192) of as an archive that can be searched along with other patents.
-
-The two prior art documents consist of a [water regulator for cattle tanks](https://patentimages.storage.googleapis.com/c8/1e/be/c0bdc5a61bb70d/US2471328.pdf) from 1949 and an [automatic water supply device](https://patents.google.com/patent/US20020162513A1) from 2001.
-
-| 1949 Regulator                                        | 2001 Valve                                                                                                               |
-|:----------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------ |
-| ![regulator sketch](/assets/img/patent_1949.jpg) | ![valve sketch](/assets/img/patent_2001.jpg) |
-
-The interesting detail is this: the 1947 device fails to eliminate the remotely-mounted accessories for the valve, and the 2001 device fails to cancel out barometric deviations.  Per the patent office language, the functions of these two designs could be combined to achieve the result we have claimed.  However, _neither_ device has directly canceled the air pressure with itself.  The best result you could achieve with one expert and these two valves designs in-hand, is a two-chamber valve that still has a bulky attachment at the surface level of the water.
-
-Given my evaluation above, we still have a world without an effective submerged valve design. So, that means we have an opportunity still to formulate a new patent and include the proper claims to make the invention properly explained and approved.
-
-### Is it Risky?
-
- By sharing this discussion, I am risking that any given expert in the field could evaluate the three patents, understand the missing claims from our 2021 patent, and make their own novel patent application which takes ownership of the central features of the innovation.
-
-But, in parallel we are getting ready to distribute units of our manufactured product.  Even if I don't publish any information, the circulation of a new design would catch the attention of experts who work in this space.  This is a more significant risk than catching attention through discussion.
-
-Secondly, there is some level of protection afforded by publishing information here in this document, and it offers more protection than risk.  Since this design is now traceable by patent search teams, a timely publication herein establishes a milestone for public knowledge.  If an illegitimate inventor wishes to take the idea and apply for a patent, this publication serves as an anchor by which we can dispute which knowledge was public and which was nonpublic.
-
-As of April 2024, I am including these discussions about IP to express explicitly some information that is vaguely public, and excluding information that is not public.
+This discussion is redacted for now!
 
 # Future Steps
 
