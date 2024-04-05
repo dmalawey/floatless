@@ -46,6 +46,8 @@ The best current solution for maintaining water troughs is to use a float valve,
 
 Each of the above problems and solutions are costly, and the efforts to deliver these solutions require their own ongoing maintenance.  If the maintenance falls short at any time, the result is wasted water. 
 
+> [Farmer Tyler Ranch](https://youtu.be/9WZdVmc_MPU) posted a full project video just to show how to build protection around your float.  Hundreds of custom projects like this one are made just to countermeasure float issues.
+
 You can imagine, farmers place troughs strategically knowing the reliability of any watering station is limited, and this planning even impacts the investment to enter small-scale farming, and it is ultimately a barrier for the beef and dairy consumers to access beef from healthier, free-ranging livestock.
 
 Consider that an acre of grass is only one step away from being a pasture:  a reliable water source.  But zero solutions come in a box - they all require expertise.  And if we reduce the expertise required by 10%, that's a possibility for millions more land owners to raise cattle.  It makes no difference to the large operations and a world of difference to the small farmers.  If we improve on the watering valve, we improve the options for sustainable agriculture.   ELIMINATE THE FLOAT!  But how?
