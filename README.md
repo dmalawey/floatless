@@ -48,6 +48,8 @@ Each of the above problems and solutions are costly, and the efforts to deliver 
 
 > [Farmer Tyler Ranch](https://youtu.be/9WZdVmc_MPU) posted a full project video just to show how to build protection around your float.  Hundreds of custom projects like this one are made just to countermeasure float issues.
 
+<iframe width="1250" height="703" src="https://www.youtube.com/embed/9WZdVmc_MPU" title="Making a Water Trough Float Guard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 You can imagine, farmers place troughs strategically knowing the reliability of any watering station is limited, and this planning even impacts the investment to enter small-scale farming, and it is ultimately a barrier for the beef and dairy consumers to access beef from healthier, free-ranging livestock.
 
 Consider that an acre of grass is only one step away from being a pasture:  a reliable water source.  But zero solutions come in a box - they all require expertise.  And if we reduce the expertise required by 10%, that's a possibility for millions more land owners to raise cattle.  It makes no difference to the large operations and a world of difference to the small farmers.  If we improve on the watering valve, we improve the options for sustainable agriculture.   ELIMINATE THE FLOAT!  But how?
@@ -73,7 +75,7 @@ After some minor adjustments, I got the valve to respond at an appropriate depth
 | ![prototype1](https://i.imgur.com/RZ8tqI2.jpeg) | ![prototype2](https://i.imgur.com/vtH1Xc0.jpeg) | ![prototype3](https://i.imgur.com/1oadRX1.jpeg) |
 
 In November of 2018, I made an early test of the initial design concept and recorded it on video. 
-![video of test](https://imgur.com/28t3Z9B)
+![Prototype Tests ► YOUTUBE](https://youtu.be/HCn0nAhnZGY)
 
 ## Generate a Product
 
@@ -114,6 +116,14 @@ Why is this invention important, among millions of inventions every year?
 At this point in technology development, it is exceedingly rare to find an enhancement of a design that simplifies the basic concept rather than complicating it.  In every sector, "smart" devices are being released which simplify the user experience while complicating the design.  Designs like smart locks, for example add batteries and transmitters and sensors to a simple deadbolt so the user no longer needs to carry a key around.  But for every design of this sort, we add more failure modes, and less robustness.  For any given sensor, we subject a design to issues of water damage, electromagnetic interference, and power limitations.
 
 It is easy to mistake a new design for a better design.  And with that, our whole civilization adopts more technology that relies on other systems working perfectly.   Robustness in the face of power outages, communication delays, and supply-chain interruptions is the best course for our basic needs like livestock and sanitation.
+
+###  Images
+
+Floatless valve installed for demonstration
+![valve demo setup](https://i.imgur.com/zJxP3Bd.jpeg)
+
+Float valves at retail stores
+![retail options](https://i.imgur.com/awQKjmG.jpeg)
 
 ## Contact Us:
 
