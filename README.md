@@ -75,7 +75,7 @@ After some minor adjustments, I got the valve to respond at an appropriate depth
 | ![prototype1](https://i.imgur.com/RZ8tqI2.jpeg) | ![prototype2](https://i.imgur.com/vtH1Xc0.jpeg) | ![prototype3](https://i.imgur.com/1oadRX1.jpeg) |
 
 In November of 2018, I made an early test of the initial design concept and recorded it on video. 
-![Prototype Tests ► YOUTUBE](https://youtu.be/HCn0nAhnZGY)
+[Prototype Tests on YouTube](https://youtu.be/HCn0nAhnZGY)
 
 ## Generate a Product
 
