@@ -48,7 +48,7 @@ Each of the above problems and solutions are costly, and the efforts to deliver 
 
 > [Farmer Tyler Ranch](https://youtu.be/9WZdVmc_MPU) posted a full project video just to show how to build protection around your float.  Hundreds of custom projects like this one are made just to countermeasure float issues.
 
-<iframe width="1250" height="703" src="https://www.youtube.com/embed/9WZdVmc_MPU" title="Making a Water Trough Float Guard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" src="https://www.youtube.com/embed/9WZdVmc_MPU" title="Making a Water Trough Float Guard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 You can imagine, farmers place troughs strategically knowing the reliability of any watering station is limited, and this planning even impacts the investment to enter small-scale farming, and it is ultimately a barrier for the beef and dairy consumers to access beef from healthier, free-ranging livestock.
 
