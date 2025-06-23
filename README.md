@@ -53,7 +53,7 @@ Each of the above problems and solutions are costly, and the efforts to deliver 
 You can imagine, farmers place troughs strategically knowing the reliability of any watering station is limited, and this planning even impacts the investment to enter small-scale farming, and it is ultimately a barrier for the beef and dairy consumers to access beef from healthier, free-ranging livestock.
 
 Consider that an acre of grass is only one step away from being a pasture:  a reliable water source.  But zero solutions come in a box - they all require expertise.  And if we reduce the expertise required by 10%, that's a possibility for millions more land owners to raise cattle.  It makes no difference to the large operations and a world of difference to the small farmers.  If we improve on the watering valve, we improve the options for sustainable agriculture.   ELIMINATE THE FLOAT!  But how?
-### The Key Barrier
+### Key Barrier
 
 It is possible for a water valve to feature an internal switch that handles water depth.  When filling a container, water itself can deliver pressure to switch proportional to the weight of the water itself, which is a function of the depth.  Achieving a consistent water depth by filling and stopping is theoretically as simple as tuning a switch to match the desired depth.
 
@@ -61,7 +61,7 @@ However, instead of a constant pressure at a given depth, the measured pressure 
 
 Surely this was not a new discovery, and earlier designers had understood it.  The question was whether any inventor made a successful countermeasure.  In 2018 I investigated current products and documents on Google Patent, and I found no designs which would achieve the desired result.  This matched our reality that floatless valves couldn't be found on the market and Scott's 30 years around livestock gave some certainty that a solution is not available on the market.   If a product existed or if a trick of the trade was available, he would have found it.
 
-### A Novel Solution
+### Novel Solution
 
 Before we employed an IP professional to do a deep dive search, I trusted my initial search and made an effort at a proof of concept. I sketched up some methods to overcome the barrier of changing barometric pressure.  I realized that the air pressure could be delivered to the top and the bottom of the pressure actuator, so that it cancels itself out.  So simple and so precise! Still, I couldn't imagine that nobody had uncovered this solution in the past.  Could the solution be novel or could it simply be hindered by another problem we hadn't discovered?
 
@@ -77,7 +77,7 @@ After some minor adjustments, I got the valve to respond at an appropriate depth
 In November of 2018, I made an early test of the initial design concept and recorded it on video. 
 [Prototype Tests on YouTube](https://youtu.be/HCn0nAhnZGY)
 
-## Generate a Product
+## Generating a Product
 
 The next steps were to further investigate IP and to convert the first prototype into something that could serve as a legitimate product.  Materials, Methods, and the proper geometry was needed to retain the function while accommodating modern manufacturing.
 
@@ -93,9 +93,22 @@ Efforts and funding for the patent were invested by Osnir's team with intention 
 
 ## IP Technical Path
 
-Patent pending.
+By 2020, our team filed an official patent application marked with a date, and by 2021, the resulting responses and application was stored into global systems of patents. By early 2024, I could retrace the filings which originated in the Brazilian system, since they were uploaded into sites I can search personally. These global systems do not mean that the whole world will honor and protect the invention from copies, but it does mean that each nation which honors the globally published documents will do so with their respective legal system.
 
-This discussion is redacted for now!
+The patent application process from our efforts are documented in the World Intellectual Property Organization (WIPO).  The WIPO hosts a [summary page of our application](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021159192) of as an archive that can be searched along with other patents.
+
+The two prior art documents consist of a [water regulator for cattle tanks](https://patentimages.storage.googleapis.com/c8/1e/be/c0bdc5a61bb70d/US2471328.pdf) from 1949 and an [automatic water supply device](https://patents.google.com/patent/US20020162513A1) from 2001 (Mark Winney).
+
+
+
+| 1949 Regulator                                        | 2001 Valve                                                                                                               |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| ![regulator sketch](img/patentWinney.jpg) | ![valve sketch](img/patentJones.jpg) |
+
+The interesting detail is this: the 1947 device fails to eliminate the remotely-mounted accessories for the valve, and the 2001 device fails to cancel out barometric deviations. Per the patent office language, the functions of these two designs could be combined to achieve the result we have claimed. However, neither device has directly canceled the air pressure with itself. The best result you could achieve with one expert and these two valves designs in-hand, is a two-chamber valve that still has a bulky attachment at the surface level of the water.
+
+Given my evaluation above, we still have a world without an effective submerged valve design. So, that means we have an opportunity still to formulate a new patent and include the proper claims to make the invention properly explained and approved.
+
 
 # Future Steps
 
@@ -146,3 +159,9 @@ If you're interested in the following activities, please reach out.
 * Evaluating the valve design on your farm, under a reputable company
 * Investment in the project, financial or through relevant partnership
 * Distribution efforts, marketing, or licensing
+
+>
+> _Note from David, 2025.06_
+> What do we need?  I need assistance from any willing party to move this project forward.  Between legal steps and manufacturing steps, I've made all the actions that I can take within my power but I still have no real progress.  There is opportunity for exchange of value or many creative ways forward that I may be unaware of.  It will just take the right people with some interest in making something happen, to update our team to include whoever is adding value, and then bring this design to life.  I'm only 36 years old and I've not yet all of the experience it takes to get assistance. I'm looking for an experienced advisor or expert to help me push this forward.
+> Thank you!
+>
