@@ -80,6 +80,11 @@ In November of 2018, I made an early test of the initial design concept and reco
 [Prototype Tests on YouTube](https://youtu.be/HCn0nAhnZGY)
 
 ## Generating a Product
+From my first prototype I generated a full CAD assembly to build with 3D printing, precise fasteners and spring with the appropriate spring rate for the balance of forces inside of the membrane.  My CAD model from 2019 is shown in the photos below.
+
+* ![valve v1 image1](img/img_valve1.jpg)
+* ![valve v1 image2](img/img_valve2.jpg)
+* ![valve v1 image3](img/img_valve3.jpg)
 
 The next steps were to further investigate IP and to convert the first prototype into something that could serve as a legitimate product.  Materials, Methods, and the proper geometry was needed to retain the function while accommodating modern manufacturing.
 
